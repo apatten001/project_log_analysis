@@ -28,6 +28,6 @@ Running the reporting tool
 * 2 . `cd to the directory where logs_analysis.py stays`
 * 3 . run `python logs_analysis.py` in the command line
 
-Here you should see the results of all the questions as well as answers below them ran in the command line terminal. 
+Here you should see the results of all the questions in the command line terminal. 
 
 
