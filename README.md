@@ -19,6 +19,8 @@ Requirements
 * Python==3.6.3
 * PostgreSQL==9.5.14
 * psycopg2
+* Download [VirtualBox] : https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
+* Download Vagrant : https://www.vagrantup.com/downloads.html
 
 
 Running the reporting tool
